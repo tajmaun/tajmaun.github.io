@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to Maun’s Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
