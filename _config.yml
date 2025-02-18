@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Taj Maun Kamal Chowdhury"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Taj Maun Kamal Chowdhury"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Senior Software Engineer"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Samsung Research"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tajmaunkamal@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
