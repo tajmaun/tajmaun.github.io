@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Welcome! I am Taj Maun Kamal Chowdhury, a passionate Software Engineer specializing in wearable technologies. With over six years of experience at Samsung Research, I have worked extensively on developing software solutions for cutting-edge wearable devices, including smart rings, bands, and smartwatches across various platforms like Android, iOS, Windows, and embedded systems. My expertise spans multiple programming languages, including Java, Kotlin, Swift, C#, and C++, with a strong focus on creating seamless user experiences for wearable technology users.
 
 Professional Journey
