@@ -1,16 +1,17 @@
 ---
 permalink: /
 title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-======
 
-I am Taj Maun Kamal Chowdhury, a software engineer with a deep passion for cutting-edge technologies, including wearable devices, high-performance software development, distributed system and cloud computing. I graduated from the University of Chittagong with a degree in Computer Science and am currently working as a Senior Software Engineer at Samsung Research.
+## About me
+Hi, I'm __Maun__.
+I am a software engineer with a deep passion for cutting-edge technologies, including wearable devices, high-performance software development, distributed system and cloud computing. I graduated from the University of Chittagong with a degree in Computer Science and am currently working as a Senior Software Engineer at Samsung Research.
 
 With over six years at Samsung Research, I have played a key role in developing RTOS based smart rings , bands and wearOS based smartwatches, focusing on designing communication protocols for seamless device interaction, defining data exchange specifications, and ensuring efficient device-to-app communication over Bluetooth, BLE and other wireless technologies.
 
