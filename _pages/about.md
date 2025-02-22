@@ -1,23 +1,29 @@
 ---
 permalink: /
-title: "Welcome to Maun’s Homepage!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am Taj Maun Kamal Chowdhury, a passionate Software Engineer specializing in wearable technologies. With over six years of experience at Samsung Research, I have worked extensively on developing software solutions for cutting-edge wearable devices, including smart rings, bands, and smartwatches across various platforms like Android, iOS, Windows, and embedded systems. My expertise spans multiple programming languages, including Java, Kotlin, Swift, C#, and C++, with a strong focus on creating seamless user experiences for wearable technology users.
-
-Professional Journey
+About me
 ======
-I graduated with a degree in Computer Science and Engineering from the University of Chittagong, one of the most prestigious public universities in Bangladesh. Throughout my career, I have contributed to numerous projects, including developing firmware and companion applications for wearable devices, ensuring robust device-to-app communication, and implementing key features like Firmware Over-The-Air (FOTA), Location-Based Services (LBS), notification handling, and log management.
 
-In addition to my professional experience, I have a strong background in competitive programming, having participated in numerous national and international programming contests. This experience has refined my problem-solving skills and ability to develop efficient, high-performance software solution
+I am Taj Maun Kamal Chowdhury, a software engineer with a deep passion for cutting-edge technologies, including wearable devices, high-performance software development, distributed system and cloud computing. I graduated from University of Chittagong majoring in Computer Science.I am currently working as Senior Software Engineer in Samsung Researcj
 
-Research and Innovation
-======
-Beyond industry work, I am deeply interested in research and innovation in wearable technology. My undergraduate thesis focused on computer vision and image processing, and I continue to explore ways to integrate advanced AI-driven solutions into wearable devices. I have also been actively involved in designing patent ideas related to wearable technology, further pushing the boundaries of what these devices can achieve.
+With over six years at Samsung Research, I have played a key role in developing RTOS based smart rings , bands and wearOS based smartwatches, focusing on designing communication protocols for seamless device interaction, defining data exchange specifications, and ensuring efficient device-to-app communication over Bluetooth, BLE and other wireless technologies.
+
+Beyond wearable technology, I specialize in writing optimized, secure, and efficient code that enhances software performance. I have worked extensively on memory optimization, identifying memory leaks, reducing application size using advanced techniques and tools, and ensuring efficient resource utilization. Security is another critical aspect of my expertise—I follow best practices to prevent vulnerabilities.
+
+I have extensive experience in Java, C#, Kotlin, Swift, C++, iOS, Android, and UWP, which has allowed me to work across diverse platforms and develop robust, scalable applications. My strong theoretical knowledge in distributed systems fuels my passion for designing scalable and resilient architectures, a domain I am eager to explore further in industry, research and academia.
+
+My research interests include secure software architectures, distributed systems, and AI-driven wearable solutions. Additionally, I am working on drafting patent disclosures related to wearable technology and system design.
+
+As a recognition of my contributions, I have received the Samsung Excellence Award and the R&D CTO Award multiple times for my impactful work. I also have a solid background in competitive programming, ranking in the top 1% in international-level contests, which has honed my problem-solving skills and algorithmic thinking.
+
+I am seeking opportunities to collaborate on cutting-edge research in software optimization, system security, distributed system,  and  wearable applications. If you are looking for a dedicated researcher with expertise in these domains, let’s connect and innovate together!
+
 
 Technical Skills
 ------
