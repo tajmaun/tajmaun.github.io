@@ -22,7 +22,7 @@ Dec 2023.
 <br/>
 🏆 Samsung **Excellence** Award, Apr ~ Jun 2023.
 <br/>
-🏆 Samsung Software Competency Test(Top 26%) : Achieved professional-level ranking, Mar 2022
+🏆 Samsung Software Competency Test(**Top 26%**) : **Achieved professional-level ranking**, Mar 2022
 <br/>
 📢 **1<sup>st</sup> Place** in Brain Station Star Coder Contest, Nov 2018
 <br/>
