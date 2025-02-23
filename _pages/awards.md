@@ -9,25 +9,25 @@ author_profile: true
 A selection of my <b>awards</b> and <b>achivements</b>, sorted by time.
 </p>
 
-🏆 Samsung Mobile R&D CTO Award, Jul ~ Sep 2024.
+🏆 Samsung **Mobile R&D CTO** Award, Jul ~ Sep 2024.
 <br/>
-🏆 Samsung Mobile R&D CTO Award, Apr ~ Jun 2024.
+🏆 Samsung **Mobile R&D CTO** Award, Apr ~ Jun 2024.
 <br/>
-📢 Samsung Excellence Award, Apr ~ Jun 2024.
+📢 Samsung **Excellence** Award, Apr ~ Jun 2024.
 <br/>
-📢 Samsung Excellence Award, Oct ~
+📢 Samsung **Excellence** Award, Oct ~
 Dec 2023.
 <br/>
-🏆 Samsung Excellence Award, Apr ~ Jun 2023.
+🏆 Samsung **Excellence** Award, Apr ~ Jun 2023.
 <br/>
-🏆 Samsung Excellence Award, Apr ~ Jun 2023.
+🏆 Samsung **Excellence** Award, Apr ~ Jun 2023.
 <br/>
 🏆 Samsung Software Competency Test(Top 26%) : Achieved professional-level ranking, Mar 2022
 <br/>
-📢 1<sup>st</sup> Place in Brain Station Star Coder Contest, Nov 2018
+📢 **1<sup>st</sup> Place** in Brain Station Star Coder Contest, Nov 2018
 <br/>
-📢 1<sup>st</sup> Place in CodeSignal Global Algorithmic Contest : Ranked 1st among 50,000+ participants, Jan 2015
+📢 **1<sup>st</sup> Place** in CodeSignal Global Algorithmic Contest : Ranked 1st among 50,000+ participants, Jan 2015
 <br/>
-🏆 3<sup>rd</sup> Place in IIUC Programming Contest 2013 : Organised by International Islamic University Chittagong, Jan 2013
+🏆 **3<sup>rd</sup> Place** in IIUC Programming Contest 2013 : Organised by International Islamic University Chittagong, Jan 2013
 <br/>
-📢 HackerRank Algorithm Rating : 2301(top 0.75%): Ranked among the top 0.75% globally, Feb 2012 - Sep 2017
+📢 HackerRank Algorithm Rating : **2301(top 0.75%)**: Ranked among the **top 0.75%** globally, Feb 2012 - Sep 2017
