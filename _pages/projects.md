@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-## Galaxy Wearable(Android)
+## [Galaxy Wearable(Android)](https://play.google.com/store/apps/details?id=com.samsung.android.app.watchmanager&hl=en)
 The Galaxy Wearable Android app is a companion application for Samsung's wearable devices, including smartwatches, fitness bands, and earbuds. It enables seamless device management, firmware updates (FOTA), notification handling, and data synchronization. The app provides an intuitive UI for configuring device settings, monitoring health data, and ensuring smooth communication between wearables and smartphones.
 
 **My Role:**
