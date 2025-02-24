@@ -17,5 +17,6 @@ The **Samsung Health** Android app is a health and fitness platform that tracks 
 
 **My Role :** As a core Contributor, I worked on developing **SDK** to process and communicate between **Samsung wearables** and **Health app**. My key contributions included processing **TLV data**, receiving and sending data from wearable application, ensuring accurate onversion between fromats, optimizing data synchronization for real-time health tracking and ensuring seamless communication with upper-layer components for efficient health data management.
 
-
+## [Samsung Windows Buds Manager](https://apps.microsoft.com/detail/9nhtlwtkfznb?hl=en-US&gl=US)
+The **Samsung Windows Buds Manager** is a companion app for managing Samsung earbuds on Windows. I contributed to the **FOTA (Firmware Over-The-Air) feature**, enabling seamless firmware updates for earbuds. My role involved **developing and optimizing the update process, ensuring secure and efficient communication** between the app and the earbuds for reliable firmware delivery.
 
