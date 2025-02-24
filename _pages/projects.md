@@ -20,3 +20,6 @@ The **Samsung Health** Android app is a health and fitness platform that tracks 
 ## [Samsung Windows Buds Manager](https://apps.microsoft.com/detail/9nhtlwtkfznb?hl=en-US&gl=US)
 The **Samsung Windows Buds Manager** is a companion app for managing Samsung earbuds on Windows. I contributed to the **FOTA (Firmware Over-The-Air) feature**, enabling seamless firmware updates for earbuds. My role involved **developing and optimizing the update process, ensuring secure and efficient communication** between the app and the earbuds for reliable firmware delivery.
 
+## [Samsung iOS Wearable Manager](https://apps.apple.com/us/app/samsung-galaxy-watch-gear-s/id1117310635)
+
+The **Samsung iOS Wearable Manager** is a companion app that enables seamless connectivity between Samsung wearables and iOS devices. I contributed to developing and optimizing key features, including FOTA (Firmware Over-The-Air) updates, device communication protocols, and data synchronization, ensuring a smooth **user experience for managing Samsung wearables on iOS.**
