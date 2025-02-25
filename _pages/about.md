@@ -11,7 +11,7 @@ redirect_from:
 
 ## About me
 Hi, I'm __Maun__.
-I am a software engineer with a deep passion for cutting-edge technologies, including **Wearable devices, Human-computer interaction (HCI), High-performance software development, Distributed system and Cloud computing.** I graduated from the [University of Chittagong, Bangladesh](https://cu.ac.bd/v2/) with a degree in **Computer Science** and am currently working as a Senior Software Engineer at [Samsung Research](https://research.samsung.com/srbd).
+I am a software engineer with a deep passion for cutting-edge technologies, including **Wearable Devices, Human-computer Interaction (HCI), High-performance Software Development, Distributed System and Cloud Computing.** I graduated from the [University of Chittagong, Bangladesh](https://cu.ac.bd/v2/) with a degree in **Computer Science** and am currently working as a Senior Software Engineer at [Samsung Research](https://research.samsung.com/srbd).
 
 With over six years at Samsung Research, I have played a key role in developing RTOS based smart rings , bands and wearOS based smartwatches, focusing on designing communication protocols for seamless device interaction, defining data exchange specifications, and ensuring efficient device-to-app communication over Bluetooth, BLE and other wireless technologies.
 
