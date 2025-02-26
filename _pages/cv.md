@@ -41,6 +41,7 @@ redirect_from:
 </p>
 ### **Brain Station 23 Ltd.**  
 ### Junior Software Engineer *(Feb 2018-Jul 2018)*
+<p style="font-size: 14px;">
 - Developed and customized plugin with unit testing resulting in 25% decrease in bugs.
 - Accomplished nop-commerce certification within short time with top 10% score.
 </p>
