@@ -25,7 +25,7 @@ redirect_from:
 - Contributed in multiple **innovative project ideas, patentable concepts and feature** suggestions to improve the user experience.
 - Coached over **7 team members to reach professional levels of software competency test** by identifying areas of improvement.
 
-### Software Engineer *(Jul 2018-Jan 2021 )*
+### <span style="color:  #0056b3;">Software Engineer *(Jul 2018-Jan 2021 )* </span>
 - Improved user interaction by implementing critical user interfaces for wearable manager project,impacting over 200 million users.
 - Refactored old codebase, grasped ownership of key features and resolved hundreds of issues of iOS wearable manager project.
 - Built log dump feature to collect logs of rtos device and shorten log collection time by 30% excluding trifling data exchange.
@@ -33,6 +33,6 @@ redirect_from:
 - Participated in the implementation of search feature and optimization of search response time for the wearable manager.
 
 ### <span style="color: #0073e6;"> **Brain Station 23 Ltd.** </span>
-### Junior Software Engineer *(Feb 2018-Jul 2018)*
+### <span style="color:  #0056b3;">Junior Software Engineer *(Feb 2018-Jul 2018)*</span>
 - Developed and customized plugin with unit testing resulting in 25% decrease in bugs.
 - Accomplished nop-commerce certification within short time with top 10% score.
