@@ -19,7 +19,7 @@ Work Experience
 ======
 - **Samsung Research**, Dhaka, Bangladesh, Jan 2021 - Present
   * Senior Software Engineer, Wearable Solution Lab
-    - Led the development of seamless firmware update transmission process and achieved 30% increase in data throughput.
+    * Led the development of seamless firmware update transmission process and achieved 30% increase in data throughput.
     - Conceptualized solution for client-server synchronization of firmware-over-the-air feature by handling all success and fail cases.
     - Developed location-based service to record location data from phones by maintaining unique session storage.
 - **Samsung Research**, Dhaka, Bangladesh, Jul 2018 - Jan 2021
