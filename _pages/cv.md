@@ -11,14 +11,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+### Education
 
 * B.Sc(Engg) in Computer Science and Engineering, University of Chittagong, 2017
 
-## Work Experience
+### Work Experience
 
-## **Samsung Research**  
-### Senior Software Engineer *(Year-Present)*
+#### **Samsung Research**  
+##### Senior Software Engineer *(Year-Present)*
 - Led the development of **wearable technologies**, including **Smart Rings, Bands, and Smartwatches**.
 - Worked on **Firmware Over-The-Air (FOTA)** updates for various wearable devices.
 - Developed and maintained **protocols for device communication** between wearables and smartphones.
@@ -26,7 +26,7 @@ redirect_from:
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
 - Designed and implemented **secure software architectures** for data exchange.
 
-### Software Engineer *(Year-Year)*
+##### Software Engineer *(Year-Year)*
 - Developed **Location-Based Services (LBS)** and **notification services** for wearable devices.
 - Worked with **RTOS-based wearable devices** and optimized software for performance and security.
 - Assisted in **patent research and development** for innovative wearable technology solutions.
