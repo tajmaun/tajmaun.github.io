@@ -20,14 +20,22 @@ redirect_from:
 ### **Samsung Research**  
 #### Senior Software Engineer *(Year-Present)*
 - Led the development of **wearable technologies**, including **Smart Rings, Bands, and Smartwatches**.
-- Worked on **Firmware Over-The-Air (FOTA)** updates for various wearable devices.
-- Developed and maintained **protocols for device communication** between wearables and smartphones.
-- Contributed to **Samsung Health**, ensuring seamless data transfer from wearables to applications.
+- Built a tool for **Samsung Health** to test conversion of health data between formats in reverse manner to ensure integrity.
+- Led the development of seamless firmware update transmission process and achieved 30% increase in data throughput.
+- Conceptualized solution for client-server synchronization of firmware-over-the-air feature by handling all success and fail cases.
+- Developed location-based service to record location data from phones by maintaining unique session storage.
+- Implemented a library for large health data conversion between formats with 20% increase of total data processing performance.
+- Defined data communication protocol for multiple RTOS device features, completing development with nearly 0% issue reporting.
+- Implemented folder feature for efficient app organization, including add, remove, reorder, move in and out functionalities.
+- Re-wrote clumsy codebase to reduce bugs and improve readability,achieving nearly 80% unit test coverage for respective features.
+- Contributed in multiple innovative project ideas, patentable concepts and feature suggestions to improve the user experience.
+- Coached over 7 team members to reach professional levels of software competency test by identifying areas of improvement.
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
-- Designed and implemented **secure software architectures** for data exchange.
 
 #### Software Engineer *(Year-Year)*
-- Developed **Location-Based Services (LBS)** and **notification services** for wearable devices.
-- Worked with **RTOS-based wearable devices** and optimized software for performance and security.
-- Assisted in **patent research and development** for innovative wearable technology solutions.
-- Developed **log dump features** for debugging and analysis.
+- Refactored old codebase, grasped ownership of key features and resolved hundreds of issues of iOS wearable manager project.
+- Improved user interaction by implementing critical user interfaces for wearable manager project,impacting over 200 million users.
+- Built log dump feature to collect logs of rtos device and shorten log collection time by 30% excluding trifling data exchange.
+- Implemented firmware-over-the-air feature from scratch for windows buds manager within tight schedule, ensuring integrity.
+- Developed functionality to regulate behavior on wearable for apps it receives the notifications through notification center service.
+- Participated in the implementation of search feature and optimization of search response time for the wearable manager.
