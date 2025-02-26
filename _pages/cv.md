@@ -36,6 +36,7 @@ redirect_from:
 - Implemented firmware-over-the-air feature from scratch for windows buds manager within tight schedule, ensuring integrity.
 - Developed functionality to regulate behavior on wearable for apps it receives the notifications through notification center service.
 - Participated in the implementation of search feature and optimization of search response time for the wearable manager.
+- 
 ### **Brain Station 23 Ltd.**  
 ### Junior Software Engineer *(Feb 2018-Jul 2018)*
 - Developed and customized plugin with unit testing resulting in 25% decrease in bugs.
