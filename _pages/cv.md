@@ -14,7 +14,7 @@ redirect_from:
 
 ## Work Experience
 
-### **Samsung Research**  
+### <span style="color: #0073e6;">**Samsung Research**  </span>
 ### Senior Software Engineer *(Jan 2021-Present)*
 - Led the development of **wearable technologies**, including **Smart Rings, Bands, and Smartwatches**.
 - Built a tool for **Samsung Health** to test conversion of health data between formats in reverse manner to ensure integrity.
