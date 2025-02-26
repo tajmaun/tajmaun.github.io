@@ -13,9 +13,9 @@ redirect_from:
 * B.Sc(Engg) in Computer Science and Engineering, University of Chittagong, 2017
 
 ## Work Experience
-#0056b3
+
 ### <span style="color: #0073e6;">**Samsung Research**  </span>
-### <span style="color: #0073e6;">Senior Software Engineer *(Jan 2021-Present)* </span>
+### <span style="color: #0056b3;">Senior Software Engineer *(Jan 2021-Present)* </span>
 - Led the development of **wearable technologies**, including **Smart Rings, Bands, and Smartwatches**.
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
 - Defined and developed **data communication protocol** for multiple **RTOS device** features with nearly 0% issue reporting.
