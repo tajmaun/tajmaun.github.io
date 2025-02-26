@@ -29,7 +29,7 @@ redirect_from:
 - Coached over 7 team members to reach professional levels of software competency test by identifying areas of improvement.
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
 
-### Software Engineer *(Ju; 2018-Jan 2021 )*
+### Software Engineer *(Jul 2018-Jan 2021 )*
 - Refactored old codebase, grasped ownership of key features and resolved hundreds of issues of iOS wearable manager project.
 - Improved user interaction by implementing critical user interfaces for wearable manager project,impacting over 200 million users.
 - Built log dump feature to collect logs of rtos device and shorten log collection time by 30% excluding trifling data exchange.
