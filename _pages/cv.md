@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
+
 
 ## Work Experience
 
@@ -19,9 +21,6 @@ redirect_from:
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
 - Designed and implemented **secure software architectures** for data exchange.
 </span>
-
-
-{% include base_path %}
 
 ## Education
 
