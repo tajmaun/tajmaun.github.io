@@ -10,7 +10,7 @@ redirect_from:
 
 ## Education
 
-* B.Sc(Engg) in Computer Science and Engineering, University of Chittagong, 2017
+* B.E in Computer Science and Engineering, University of Chittagong, 2017
 
 ## Work Experience
 
