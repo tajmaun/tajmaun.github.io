@@ -7,12 +7,10 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-## Education
----
+### Education
 * B.E in Computer Science and Engineering, University of Chittagong, 2017
   
-## Work Experience
----
+### Work Experience
 <span style="color:  #0056b3;">**Senior Software Engineer** </span> at <span style="color: #0073e6;">**Samsung Research**</span> **(Jan 2021-Present)** 
 - Led the development of **wearable technologies**, including **Smart Rings, Bands, and Smartwatches**.
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
