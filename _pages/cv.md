@@ -14,7 +14,7 @@ redirect_from:
 ## Work Experience
 ---
 ### <span style="color: #0073e6;">**Samsung Research**  </span>
-<span style="color:  #0056b3;">**Senior Software Engineer** at ### <span style="color: #0073e6;">**Samsung Research**  </span> *(Jan 2021-Present)* </span>
+<span style="color:  #0056b3;">**Senior Software Engineer** </span> at <span style="color: #0073e6;">**Samsung Research**</span> **(Jan 2021-Present)** 
 - Led the development of **wearable technologies**, including **Smart Rings, Bands, and Smartwatches**.
 - Worked on **Wearable Manager applications** for Android, iOS, and Windows platforms.
 - Defined and developed **data communication protocol** for multiple **RTOS device** features with nearly 0% issue reporting.
