@@ -10,7 +10,7 @@ redirect_from:
 ## Education
 ---
 * B.E in Computer Science and Engineering, University of Chittagong, 2017
-* 
+  
 ## Work Experience
 ---
 <span style="color:  #0056b3;">**Senior Software Engineer** </span> at <span style="color: #0073e6;">**Samsung Research**</span> **(Jan 2021-Present)** 
