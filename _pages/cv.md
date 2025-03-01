@@ -31,7 +31,7 @@ Competitive Programming
    * Ranked in top 1% in 10+ contests.
 - **CodeForces**
    * Algorithm Rating : 1620(top 5%)
-- **ACM ICPC | National Contests | Others**
+- **ACM ICPC, National Contests, Others**
    * Participated in 2 ICPC reginal contests
    * Participated in 100+ national/international level contests.
   
