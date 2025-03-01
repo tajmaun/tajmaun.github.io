@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
-Find out the [**CV**](https://drive.google.com/drive/u/0/my-drive?q=after:2025-03-01%20parent:0AJoDLipufs4XUk9PVA) here.
+tajmaun.github.io/files/Taj_Maun_Kamal_CV.pdf
+Find out the [**CV**](https://tajmaun.github.io/files/Taj_Maun_Kamal_CV.pdf) here.
 
 ### Education
 ---
