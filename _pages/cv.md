@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+Find out the **CV** here
+
 ### Education
 ---
 * B.E in Computer Science and Engineering, University of Chittagong, 2017
