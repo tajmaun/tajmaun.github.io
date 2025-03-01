@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
 Find out the **CV** here
 
 ### Education
