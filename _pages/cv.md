@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-tajmaun.github.io/files/Taj_Maun_Kamal_CV.pdf
 Find out the [**CV**](https://tajmaun.github.io/files/Taj_Maun_Kamal_CV.pdf) here.
 
 ### Education
