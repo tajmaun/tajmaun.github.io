@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Find out the **CV** here
+Find out the[**CV**](https://drive.google.com/drive/u/0/my-drive?q=after:2025-03-01%20parent:0AJoDLipufs4XUk9PVA) here.
 
 ### Education
 ---
