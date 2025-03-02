@@ -14,4 +14,4 @@ author_profile: true
 - **Mentor and Judge for System Development, PIHACKS21**, 2021
   * Mentored college level students to develop a system for a hackathon.
 - **Competitive Programming Coach, University of Chittagong**, 2015
-  * Took classes and coached students to improve problem-solving skill and get read for ICPC contests.
+  * Took classes and coached students to improve problem-solving skill and get ready for ICPC contests.
