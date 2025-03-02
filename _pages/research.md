@@ -16,11 +16,6 @@ For character recognition, we employed a contour-based segmentation approach alo
 ## Image Gallery
 
 **1. First Image**  
-![First Image](images/500x300.jpg)
+<img src="/images/blur.png" alt="drawing" width="400"/>  <img src="/images/gray.png" alt="drawing" width="400"/>
 
-**2. Second Image**  
-![Second Image](images/image2.jpg)
-
-**3. Third Image**  
-![Third Image](images/image3.jpg)
 
