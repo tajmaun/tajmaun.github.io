@@ -25,7 +25,7 @@ Work Experience
 Competitive Programming
 ======
 - **HackerRank**
-   * Algorithm Rating : 2301(top 0.75\%)
+   * Algorithm Rating : 2301(top 0.75%)
    * National Rank : National Rank : [17<sup>th</sup>](https://www.hackerrank.com/leaderboard?filter=Bangladesh&filter_on=country&page=1)/ 2300 contestants, Best : 5<sup>th</sup>
    * Global Rank : [1421<sup>th</sup>](https://www.hackerrank.com/leaderboard?filter=_maun&filter_on=hacker&level=5&page=1)/ 182781 contestants
    * Ranked in top 1% in 10+ contests.
@@ -34,4 +34,10 @@ Competitive Programming
 - **ACM ICPC, National Contests, Others**
    * Participated in 100+ national/international level contests including ACM ICPC, NCPC, Google CodeJam etc.
    * Solved 2000+ problems
+ 
+VOLUNTEER EXPERIENCE
+======
+* **Problem Setter for Algorithmic Contests**, University of Chittagong, 2016
+* **Algorithmic Problem Author,CodeSignal**, Dec 2015
+
   
