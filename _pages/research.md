@@ -13,7 +13,7 @@ Our method utilizes Sobel edge detection, Otsu’s thresholding, morphological c
 
 For character recognition, we employed a contour-based segmentation approach alongside a Multi-Layer Perceptron (MLP) model. Experimental results demonstrate an **87%** accuracy in plate detection and **70.12%** accuracy in character segmentation, highlighting the effectiveness of our approach.
 
-<span style="color: #0056b3;"> **Grayscale Conversion    ->  Applying Gaussian Blur ->    Thresholding   ->   Morphological Operation   ->   Detected Plate** </span>
+<span style="color: #0056b3;"> Grayscale Conversion    ->  Applying Gaussian Blur ->    Thresholding   ->   Morphological Operation   ->   Detected Plate </span>
 
 <img src="/images/blur.png" alt="drawing" width="180"/>  <img src="/images/gray.png" alt="drawing" width="180"/> <img src="/images/thresholding.png" alt="drawing" width="180"/> <img src="/images/morphological_operation.png" alt="drawing" width="180"/>
 <img src="/images/cropped_plate.png" alt="drawing" width="180" />
