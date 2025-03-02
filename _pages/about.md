@@ -29,4 +29,4 @@ My undergraduate thesis in **computer vision and image processing** marked the b
 
 **Software Engineering Best Practices:** OOP, Clean Code, Automated Testing
 
-**Specializations:** Wearable technology, UI/UX design for wearable applications, Firmware Development, Device-to-app Communication Protocols, Distributed System, Computer Vison and Image Processings
+**Specializations:** Wearable technology, UI/UX design for wearable applications, Firmware Development, Device-to-app Communication Protocols, Distributed System, Computer Vison and Image Processing
