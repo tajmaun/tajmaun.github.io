@@ -33,4 +33,5 @@ Competitive Programming
    * Algorithm Rating : 1620(top 5%)
 - **ACM ICPC, National Contests, Others**
    * Participated in 100+ national/international level contests including ACM ICPC, NCPC, Google CodeJam etc.
+   * Solved 2000+ problems
   
