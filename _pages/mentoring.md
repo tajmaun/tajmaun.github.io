@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Mentoring"
+permalink: /mentoring/
+author_profile: true
+
+---
+
 ## SUPERVISIONS/MENTORING
 - **Industry Mentorship Program**, 2025
   * Kazi Omar Sharif, Final Semester, University of Chittagong
