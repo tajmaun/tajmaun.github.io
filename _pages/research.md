@@ -13,3 +13,14 @@ Our method utilizes Sobel edge detection, Otsu’s thresholding, morphological c
 
 For character recognition, we employed a contour-based segmentation approach alongside a Multi-Layer Perceptron (MLP) model. Experimental results demonstrate an **87%** accuracy in plate detection and **70.12%** accuracy in character segmentation, highlighting the effectiveness of our approach.
 
+## Image Gallery
+
+**1. First Image**  
+![First Image](images/500x300.jpg)
+
+**2. Second Image**  
+![Second Image](images/image2.jpg)
+
+**3. Third Image**  
+![Third Image](images/image3.jpg)
+
