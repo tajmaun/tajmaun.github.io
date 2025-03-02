@@ -6,8 +6,10 @@ author_profile: true
 
 ---
 
-## Bengali number plate detection using contour properties of locally important regions.
-The Galaxy Wearable Android app manages **Samsung’s RTOS-based smart rings, fitness bands, and WearOS-based smartwatches**, enabling firmware updates (FOTA), notifications, data sync, and device settings through dedicated plugins.
+## Number Plate Detection Using Edge-Based and Contour-Based Methods
+Number plate detection is a crucial application in vehicle counting, traffic surveillance, and law enforcement. Over the years, numerous algorithms and techniques have been proposed to address this problem. This thesis presents a novel and straightforward approach for detecting number plates in real-world scenarios. Our system is designed to work with generic images, including snapshots captured under realistic conditions.
 
-As a core contributor, I developed and optimized key features, including **FOTA(Firmware Over The Air), LBS(Location Based Service), notifications, and log dump functionalities**. I worked extensively on protocol development for **device-app communication, ensuring secure and efficient data exchange.** Additionally, I played a role in refining the user interface to enhance the **user experience** of managing Samsung’s wearable ecosystem.
+Our method utilizes Sobel edge detection, Otsu’s thresholding, morphological closing operations, minimum bounding rectangles, and contour properties to accurately localize number plates. The algorithm has been successfully tested on a variety of real-world images.
+
+For character recognition, we employed a contour-based segmentation approach alongside a Multi-Layer Perceptron (MLP) model. Experimental results demonstrate an **87%** accuracy in plate detection and **70.12%** accuracy in character segmentation, highlighting the effectiveness of our approach.
 
