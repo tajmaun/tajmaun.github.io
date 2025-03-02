@@ -16,6 +16,6 @@ For character recognition, we employed a contour-based segmentation approach alo
 ## Image Gallery
 
 **1. First Image**  
-<img src="/images/blur.png" alt="drawing" width="400"/>  <img src="/images/gray.png" alt="drawing" width="400"/>
+<img src="/images/blur.png" alt="drawing" width="280"/>  <img src="/images/gray.png" alt="drawing" width="280"/> <img src="/images/thresholding" alt="drawing" width="280"/>
 
 
