@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "SUPERVISIONS/MENTORING"
 permalink: /mentoring/
 author_profile: true
 
 ---
-
-## SUPERVISIONS/MENTORING
 - **Industry Mentorship Program**, 2025
   * Kazi Omar Sharif, Final Semester, University of Chittagong
   * Mahfuja Yesmin, Final Semester, University of Chittagong
