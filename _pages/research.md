@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 ## Bengali Number Plate Detection Using Edge-Based and Contour-Based Methods
-[Code](https://github.com/tajmaun/Nearest-Important-Place-Visualization)
+[[Code](https://github.com/tajmaun/Nearest-Important-Place-Visualization)]
+
 Number plate detection plays a significant role in vehicle counting, traffic surveillance, and law enforcement. While many approaches have been proposed for detecting number plates, most focus on Latin-script plates. This thesis presents a novel and effective method for detecting Bengali number plates, addressing the challenges posed by unique script characteristics and real-world variations in plate appearance.
 
 Our system processes generic images, including snapshots taken in natural conditions. We employ Sobel edge detection, Otsu’s thresholding, morphological closing operations, minimum bounding rectangles, and contour properties to localize the number plate. The algorithm has been successfully tested on a diverse set of real-world images.
