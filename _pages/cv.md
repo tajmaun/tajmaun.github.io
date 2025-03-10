@@ -40,7 +40,7 @@ Technical Engagements
 * **Problem Setter for Algorithmic Contests**, University of Chittagong, 2016
 * **Algorithmic Problem Author**, [CodeSignal](https://app.codesignal.com/question/zK97wQNTvc5t96spx), Dec 2015
 
-CERTIFICATIONS
+Certifications
 ======
 * [**HackerRank**](https://www.hackerrank.com/certificates/4a0cf98c6560), Expertise in solving algorithm problems(Advanced) certificate.
 * [**nopCommerce**](https://www.nopcommerce.com/en/taj-maun-kamal-chowdhury), Certified nop-Commerce Developer.
