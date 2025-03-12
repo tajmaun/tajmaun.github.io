@@ -37,8 +37,11 @@ Competitive Programming
  
 Technical Engagements
 ======
+* **Mentor, Industry Mentorship Program**,University of Chittagong, 2025
+* **Mentor & Judge, System Development** , PIHACKS21, 2021
 * **Problem Setter for Algorithmic Contests**, University of Chittagong, 2016
 * **Algorithmic Problem Author**, [CodeSignal](https://app.codesignal.com/question/zK97wQNTvc5t96spx), Dec 2015
+* **Competitive Programming Coach**, University of Chittagong, 2015
 
 Certifications
 ======
