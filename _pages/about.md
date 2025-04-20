@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<nav class="mobile-about-menu">
-  <a href="#research-and-innovation">Research</a>
-  <a href="#cv">Skills</a>
-  <a href="#education">Education</a>
-  <a href="#work-experience">Experience</a>
-  <a href="#competitive-programming">CP</a>
-  <a href="#technical-engagements">Engagements</a>
-  <a href="#certifications">Certs</a>
-</nav>
-
 ## About me
 Hi, I'm __Maun__.
 I am a software engineer with a deep passion for cutting-edge technologies, including **Wearable devices, Human-computer interaction (HCI), High-performance software development, Distributed system and Cloud computing.** I graduated from the [University of Chittagong, Bangladesh](https://cu.ac.bd/v2/) with a degree in Computer Science and am currently working as a Senior Software Engineer at [Samsung Research](https://research.samsung.com/srbd).
