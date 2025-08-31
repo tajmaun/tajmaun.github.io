@@ -35,4 +35,4 @@ My undergraduate thesis in **computer vision and image processing** marked the b
 
 **Jun 2025**, Started working on DOI for **Improving Boot time for WearOS devices**
 
-**Nov 2025**, Started working on DOI for **Identifying specific hand gesture to control smart devices using Smart Rings**
+**Nov 2024**, Started working on DOI for **Identifying specific hand gesture to control smart devices using Smart Rings**
