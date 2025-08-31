@@ -32,8 +32,8 @@ My undergraduate thesis in **computer vision and image processing** marked the b
 
 # News
 
-Aug 2025 – My patent on *Improving Boot Time for WearOS Devices* was graded **A1** internally and submitted to the **Samsung IP Management System (SIPMS)** for final review.
+**Aug 2025** – My patent on *Improving Boot Time for WearOS Devices* was graded **A1** internally and submitted to the **Samsung IP Management System (SIPMS)** for final review.
 
-Jun 2025 – Began working on the **DOI** for *Improving Boot Time for WearOS Devices*.
+**Jun 2025** – Began working on the **DOI** for *Improving Boot Time for WearOS Devices*.
 
-Nov 2024 – Initiated the **DOI** for *Identifying Specific Hand Gestures to Control Smart Devices Using Smart Rings*.
+**Nov 2024** – Initiated the **DOI** for *Identifying Specific Hand Gestures to Control Smart Devices Using Smart Rings*.
