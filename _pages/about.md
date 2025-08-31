@@ -31,8 +31,9 @@ My undergraduate thesis in **computer vision and image processing** marked the b
 **Specializations:** Wearable technology, UI/UX design for wearable applications, Firmware Development, Device-to-app Communication Protocols, Distributed System, Computer Vison and Image Processing
 
 # News
-**Aug 2025**, My patent work on **Improving Boot time for WearOS devices** has been graded as **A1** internally and submitted to SIPMS(Samsung IP Management System) for final review.
 
-**Jun 2025**, Started working on DOI for **Improving Boot time for WearOS devices**
+Aug 2025 – My patent on *Improving Boot Time for WearOS Devices* was graded **A1** internally and submitted to the **Samsung IP Management System (SIPMS)** for final review.
 
-**Nov 2024**, Started working on DOI for **Identifying specific hand gesture to control smart devices using Smart Rings**
+Jun 2025 – Began working on the **DOI** for *Improving Boot Time for WearOS Devices*.
+
+Nov 2024 – Initiated the **DOI** for *Identifying Specific Hand Gestures to Control Smart Devices Using Smart Rings*.
