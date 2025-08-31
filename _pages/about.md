@@ -29,3 +29,7 @@ My undergraduate thesis in **computer vision and image processing** marked the b
 **Software Engineering Best Practices:** OOP, Clean Code, Automated Testing
 
 **Specializations:** Wearable technology, UI/UX design for wearable applications, Firmware Development, Device-to-app Communication Protocols, Distributed System, Computer Vison and Image Processing
+
+# News
+**Aug 2025**, My patent work on "Improving Boot time for WearOS devices" has been graded as A1 internally and 
+submitted to SIPMS(Samsung IP Management System) for final review.
