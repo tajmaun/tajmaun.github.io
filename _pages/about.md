@@ -32,7 +32,7 @@ My undergraduate thesis in **computer vision and image processing** marked the b
 
 # News
 
-**Aug 2025** – My patent on *Improving Boot Time for WearOS Devices* was graded **A1(High-Impact)** internally and submitted to the **Samsung IP Management System (SIPMS)** for final review.
+**Aug 2025** – My patent on “Improving Boot Time for WearOS Devices” was graded A1 (High-Impact) and granted this status in the Samsung IP Management System (SIPMS), with the formal filing process currently ongoing.
 
 **Jun 2025** – Began working on the **DOI** for *Improving Boot Time for WearOS Devices*.
 
