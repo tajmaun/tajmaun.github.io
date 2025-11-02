@@ -37,6 +37,8 @@ Competitive Programming
  
 Technical Engagements
 ======
+* **Guest Lecturer(Thesis Evaluation)**, Green University of Bangladesh, 2025
+* **Keynote Speaker**, Tech Session arranged by Bangladesh University of Business and Technology (BUBT), 2025
 * **Mentor, Industry Mentorship Program**, University of Chittagong, 2025
 * **Mentor & Judge, System Development** , PIHACKS21, 2021
 * **Problem Setter for Algorithmic Contests**, University of Chittagong, 2016
