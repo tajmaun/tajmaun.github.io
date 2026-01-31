@@ -9,6 +9,8 @@ author_profile: true
 A selection of my <b>awards</b> and <b>achivements</b>, sorted by time.
 </p>
 
+🏆 Samsung **Icon of the Month** Award, Sep ~ Oct 2025.
+<br/>
 🏆 Samsung **Mobile R&D CTO** Award, Jul ~ Sep 2024.
 <br/>
 🏆 Samsung **Mobile R&D CTO** Award, Apr ~ Jun 2024.
