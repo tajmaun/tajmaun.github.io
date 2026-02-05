@@ -8,7 +8,8 @@ author_profile: true
 <p align="center">
 A selection of my <b>awards</b> and <b>achivements</b>, sorted by time.
 </p>
-
+🏆 Samsung **Intellect of the Quarter** Award, Oct ~ Dec 2025.
+<br/>
 🏆 Samsung **Icon of the Month** Award, Sep ~ Oct 2025.
 <br/>
 🏆 Samsung **Mobile R&D CTO** Award, Jul ~ Sep 2024.
