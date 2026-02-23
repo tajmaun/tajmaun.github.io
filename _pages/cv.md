@@ -30,7 +30,7 @@ Competitive Programming
    * Global Rank : [1421<sup>th</sup>](https://www.hackerrank.com/leaderboard?filter=_maun&filter_on=hacker&level=5&page=1)/ 182781 contestants
    * Ranked in top 1% in 10+ contests.
 - **CodeForces**
-   * Algorithm Rating : 1710(top 4%)
+   * Algorithm Rating : [1821](https://codeforces.com/profile/supervillain)(top 4%)
 - **ACM ICPC, National Contests, Others**
    * Participated in 100+ national/international level contests including ACM ICPC, NCPC, Google CodeJam etc.
    * Solved 2000+ problems
