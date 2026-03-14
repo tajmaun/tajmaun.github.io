@@ -15,6 +15,8 @@ Education
 
 Work Experience
 ======
+- **Samsung Research**, Dhaka, Bangladesh, Mar 2026 - Present
+  * Lead Engineer, Wearable Solution Lab
 - **Samsung Research**, Dhaka, Bangladesh, Jan 2021 - Present
   * Senior Software Engineer, Wearable Solution Lab
 - **Samsung Research**, Dhaka, Bangladesh, Jul 2018 - Jan 2021
@@ -30,7 +32,7 @@ Competitive Programming
    * Global Rank : [1421<sup>th</sup>](https://www.hackerrank.com/leaderboard?filter=_maun&filter_on=hacker&level=5&page=1)/ 182781 contestants
    * Ranked in top 1% in 10+ contests.
 - **CodeForces**
-   * Algorithm Rating : [1821](https://codeforces.com/profile/supervillain)(top 3%)
+   * Algorithm Rating : [1927](https://codeforces.com/profile/supervillain)(top 3%)
 - **ACM ICPC, National Contests, Others**
    * Participated in 100+ national/international level contests including ACM ICPC, NCPC, Google CodeJam etc.
    * Solved 2000+ problems
