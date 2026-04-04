@@ -36,6 +36,8 @@ My interest in research began with my undergraduate thesis in **computer vision 
 
 **Aug 2025** – My **patent** titled **Improving Boot Time for WearOS Devices** was granted **A1 (High-Impact) status** by the Samsung IP Management System (SIPMS) and the formal patent filing process is currently in progress
 
+**Aug 2025** –  Received the **Icon Engineer Award** for contributions to wearable innovation and development.
+
 **Jun 2025** – Began working on the **DOI** for *Improving Boot Time for WearOS Devices*.
 
 **Nov 2024** – Initiated the **DOI** for *Identifying Specific Hand Gestures to Control Smart Devices Using Smart Rings*.
