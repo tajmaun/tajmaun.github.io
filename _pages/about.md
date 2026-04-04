@@ -42,4 +42,4 @@ My interest in research began with my undergraduate thesis in **computer vision 
 
 **Jun 2025** – Began working on the **DOI** for *Improving Boot Time for WearOS Devices*.
 
-**Nov 2024** – Initiated the **DOI** for *Identifying Specific Hand Gestures to Control Smart Devices Using Smart Rings*.
+**Nov 2024** – Initiated the **DOI** for **Identifying Specific Hand Gestures to Control Smart Devices Using Smart Rings**.
