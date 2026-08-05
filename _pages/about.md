@@ -38,7 +38,7 @@ My interest in research began with my undergraduate thesis in **computer vision 
 
 **Feb 2026** - Received **Samsung Intellect of the Quarter Award** in recognition of remarkable contributions to **innovation**.
 
-**Aug 2025** – My **patent** titled **Improving Boot Time for WearOS Devices** was granted **A1 (High-Impact) status** by the Samsung IP Management System (SIPMS), filing has been completed and publication process in ongoing.
+**Aug 2025** – My **patent** titled **Improving Boot Time for WearOS Devices** was granted **A1 (High-Impact) status** by the Samsung IP Management System (SIPMS), filing has been completed and publication process is ongoing.
 
 **Aug 2025** –  Received the **Icon Engineer Award** for contributions to **wearable innovation and development**.
 
