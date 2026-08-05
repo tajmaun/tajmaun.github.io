@@ -32,11 +32,13 @@ My interest in research began with my undergraduate thesis in **computer vision 
 **Specializations:** Wearable technology, UI/UX design for wearable applications, Firmware Development, Device-to-app Communication Protocols, Distributed System, Computer Vison and Image Processing
 
 # News
-**Mar 2026** - Started working on the **DOI**  for **Reducing Scrolling efforts on Wearables**.
+**Aug 2026** - Started working on the **DOI**  for **Reducing cognitive efforts on Wearables**.
+
+**Jul 2026** - My **patent** titled **Adaptive ranking for featured applications in wearable devices** has been submitted in **Samsung IP Management System (SIPMS)** for final review"
 
 **Feb 2026** - Received **Samsung Intellect of the Quarter Award** in recognition of remarkable contributions to **innovation**.
 
-**Aug 2025** – My **patent** titled **Improving Boot Time for WearOS Devices** was granted **A1 (High-Impact) status** by the Samsung IP Management System (SIPMS) and the formal patent filing process is currently in progress.
+**Aug 2025** – My **patent** titled **Improving Boot Time for WearOS Devices** was granted **A1 (High-Impact) status** by the Samsung IP Management System (SIPMS), filing has been completed and publication process in ongoing.
 
 **Aug 2025** –  Received the **Icon Engineer Award** for contributions to **wearable innovation and development**.
 
