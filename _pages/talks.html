@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
+excerpt: "Talks on software engineering, industry practice, and building maintainable systems."
 author_profile: true
+show_title: false
 ---
 
-{% if site.talkmap_link == true %}
+<p class="page-kicker">Talks</p>
+# Sharing practical engineering lessons
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p class="page-intro">I speak about software craftsmanship, career preparation, and the engineering habits that help teams build maintainable systems.</p>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<div class="timeline">
+{% assign sorted_talks = site.talks | sort: 'date' | reverse %}
+{% for post in sorted_talks %}
+  <article class="timeline__item">
+    <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %Y' }}</time>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.type }} · {{ post.venue }} · {{ post.location }}</p>
+  </article>
 {% endfor %}
+</div>
+
+<div class="callout">
+  <p class="eyebrow">Speaking</p>
+  <h3>Interested in a practical software-engineering session?</h3>
+  <p>For university, mentoring, or industry-session inquiries, <a href="mailto:{{ site.author.email }}">get in touch by email</a>.</p>
+</div>

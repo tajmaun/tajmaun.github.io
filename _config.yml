@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Taj Maun Kamal Chowdhury"
 title_separator          : "-"
 name                     : &name "Taj Maun Kamal Chowdhury"
-description              : &description "Sr. Software Engineer @ Samsung"
+description              : &description "Lead Software Engineer specializing in wearable systems, performance, and connected-device experiences."
 url                      : https://tajmaun.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tajmaun/tajmaun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Lead Software Engineer"
   location         : "Dhaka, Bangladesh"
   employer         : "Samsung Research"
-  CV               : "https://tajmaun.github.io/files/Taj_Maun_Kamal_CV.pdf"
+  CV               : "/files/Taj_Maun_Kamal_CV.pdf"
   email            : "tajmaunkamal@gmail.com"
 
   # Academic websites
@@ -118,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # no public blog feed while the blog is inactive
   path                   : # blank (default) uses feed.xml
 
 
