@@ -35,4 +35,4 @@ Dec 2023.
 <br/>
 📢 **HackerRank** Algorithm Rating : **2301(top 0.75%)**: Ranked among the **top 0.75%** globally, Feb 2012 - Sep 2017
 <br/>
-🏆 **Chittagong University** Merit Scholarship, Mar 2011
+🏆 **Chittagong University** Merit Scholarship, 2012
