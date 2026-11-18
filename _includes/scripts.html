@@ -22,4 +22,13 @@
     }, { rootMargin: '-20% 0px -70% 0px' });
     Object.keys(map).forEach(function (id) { observer.observe(document.getElementById(id)); });
   })();
+
+  // Show the back-to-top button once the reader has scrolled past the intro.
+  (function () {
+    var btn = document.querySelector('.back-to-top');
+    if (!btn) { return; }
+    var onScroll = function () { btn.classList.toggle('is-visible', window.scrollY > 600); };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
 </script>

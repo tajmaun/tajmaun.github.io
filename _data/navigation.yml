@@ -5,20 +5,20 @@ main:
   - title: "About"
     url: /#about
 
-  - title: "Experience"
-    url: /#experience
-
-  - title: "Awards"
-    url: /#awards
-
   - title: "Research"
     url: /#research
+
+  - title: "Experience"
+    url: /#experience
 
   - title: "Projects"
     url: /#projects
 
+  - title: "Awards"
+    url: /#awards
+
   - title: "Talks"
     url: /#talks
 
-  - title: "Mentoring"
+  - title: "Service"
     url: /#mentoring

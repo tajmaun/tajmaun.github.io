@@ -1,0 +1,264 @@
+---
+permalink: /
+title: ""
+excerpt: "Wearable systems engineer at Samsung Research, seeking PhD opportunities in HCI, ubiquitous computing and wearable health."
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+{% include base_path %}
+
+<!-- ============================== ABOUT ============================== -->
+<section class="hero" id="about">
+  <p class="hero__eyebrow">Lead Software Engineer · Samsung Research Bangladesh</p>
+  <h1 class="hero__title">Hi, I'm Taj Maun Kamal Chowdhury.</h1>
+  <p class="hero__lead">I build software for smartwatches, smart rings and earbuds, and I study how small, resource-constrained devices can ask less effort of the people who use them.</p>
+
+  <div class="phd-callout">
+    <span class="phd-callout__label">Open to PhD positions · Fall 2027</span>
+    Human–Computer Interaction · Ubiquitous Computing · Wearable Health
+  </div>
+
+  <div class="hero__actions">
+    <a class="pill pill--primary" href="{{ base_path }}/files/Taj_Maun_Kamal_CV.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> CV</a>
+    <a class="pill" href="mailto:tajmaunkamal@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+    <a class="pill" href="https://www.linkedin.com/in/tajmaun"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+    <a class="pill" href="https://github.com/tajmaun"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+  </div>
+</section>
+
+<div class="prose">
+  <p>I am a Lead Software Engineer in the Wearable Solution Lab at <a href="https://research.samsung.com/srbd">Samsung Research Bangladesh</a>. For more than seven years I have built software for Samsung's <b>smartwatches (Wear OS, Tizen)</b>, <b>smart rings, fitness bands and earbuds (RTOS)</b>, and their companion apps on Android, iOS and Windows.</p>
+
+  <p>My engineering work keeps returning to one question: <b>how much effort does a small device ask of its user?</b> I have worked on getting a watch usable sooner after boot, keeping settings and restored state consistent across devices, updating firmware reliably, and deciding what a tiny screen should show. I am now turning these product problems into research questions. I am the <b>lead inventor on a patent application for Wear OS boot-time optimization</b> and the author of a <b>manuscript in preparation on adaptive app selection for wearables</b>, and I want to pursue doctoral research that combines systems engineering with human-centered evaluation.</p>
+
+  <p>I hold a B.Sc. (Engg.) in Computer Science and Engineering from the <a href="https://cu.ac.bd/v2/">University of Chittagong</a>, where my thesis was on computer vision. I also have a strong background in <b>competitive programming</b> (HackerRank top 0.75%, Codeforces 1930).</p>
+</div>
+
+<h3 class="subhead">Research interests</h3>
+<div class="interest-grid">
+  <div class="interest">
+    <i class="fas fa-sliders" aria-hidden="true"></i>
+    <h4>Adaptive interfaces</h4>
+    <p>Personalization and ranking on wearables that follow changing behavior without making the interface unstable.</p>
+  </div>
+  <div class="interest">
+    <i class="fas fa-mobile-screen" aria-hidden="true"></i>
+    <h4>Small-display interaction</h4>
+    <p>Finding the information or control a tile, widget or watch face is missing, and exposing it with minimal disruption.</p>
+  </div>
+  <div class="interest">
+    <i class="fas fa-heart-pulse" aria-hidden="true"></i>
+    <h4>Wearable health &amp; sensing</h4>
+    <p>Sensing-informed interaction and timely interventions that balance uncertainty, timing and user burden.</p>
+  </div>
+  <div class="interest">
+    <i class="fas fa-microchip" aria-hidden="true"></i>
+    <h4>Efficient wearable systems</h4>
+    <p>Start-up, scheduling and communication policies under tight energy and compute budgets.</p>
+  </div>
+  <div class="interest">
+    <i class="fas fa-network-wired" aria-hidden="true"></i>
+    <h4>Ecosystem continuity</h4>
+    <p>Keeping tasks dependable when one device in a multi-device ecosystem becomes unavailable.</p>
+  </div>
+</div>
+
+<!-- ============================== NEWS ============================== -->
+<h2 class="section-title" id="news">News</h2>
+<ul class="news-list">
+  <li><span class="news-date">Aug 2026</span><span>Started an invention disclosure on <b>reducing cognitive effort on wearables</b>.</span></li>
+  <li><span class="news-date">Jul 2026</span><span>Submitted an invention disclosure on <b>adaptive ranking of featured applications on wearable devices</b> to Samsung's IP management system.</span></li>
+  <li><span class="news-date">Feb 2026</span><span>Received the <b>Samsung Intellect of the Quarter Award</b> for contributions to innovation.</span></li>
+  <li><span class="news-date">Aug 2025</span><span>My invention <b>Improving Boot Time for Wear OS Devices</b> was rated <b>A1 (high impact)</b> in Samsung's internal IP assessment, and a patent application has been filed.</span></li>
+  <li><span class="news-date">Aug 2025</span><span>Received the <b>Icon Engineer Award</b> for contributions to wearable innovation.</span></li>
+  <li><span class="news-date">Apr 2025</span><span>Gave a talk at Bangladesh University of Business and Technology (BUBT).</span></li>
+  <li><span class="news-date">Nov 2024</span><span>Started an invention disclosure on <b>recognizing hand gestures with smart rings to control smart devices</b>.</span></li>
+</ul>
+
+<!-- ============================== RESEARCH ============================== -->
+<h2 class="section-title" id="research">Research</h2>
+
+<article class="card">
+  <span class="status status--progress">Manuscript in preparation</span>
+  <h3 class="card__title">Adaptive Featured App Selection through Recency-Gated Historical Usage</h3>
+  <p>A wearable launcher can show only a handful of apps, and users' habits change. Ranking apps by long-term usage reacts slowly; ranking by recent usage makes the screen churn. This work proposes a <b>recency-gated</b> ranking in which recent activity controls how much older history counts, combined with persistence guards and replacement penalties to keep the selection stable.</p>
+  <p class="card__meta">Evaluated against fixed-window and exponential-decay baselines on adaptation time, launch coverage, replacement frequency and ranking stability, using the public LSApp app-usage dataset.</p>
+  <div class="tags"><span>Personalization</span><span>Ranking</span><span>Wearables</span></div>
+</article>
+
+<article class="card">
+  <span class="status status--progress">Ongoing · prototype</span>
+  <h3 class="card__title">Repairing Capability Gaps in Widgets and Tiles</h3>
+  <p>Compact interfaces such as widgets and watch tiles often omit exactly the detail a user needs, for example the exact air-quality value behind a coarse weather icon, or an alarm's repeat days. Users are then pushed into the full app. This project studies how to detect <b>where in the data-to-pixels pipeline the needed information is lost</b>, and how to apply the smallest supported repair (expose a field, add a control, re-arrange or resize) while preserving existing functionality.</p>
+  <p class="card__meta">A working proof of concept exists, and the evaluation design is in progress.</p>
+  <div class="tags"><span>HCI</span><span>Small displays</span><span>UI repair</span></div>
+</article>
+
+<article class="card">
+  <span class="status status--patent">Patent application · lead inventor</span>
+  <h3 class="card__title">Improving Boot Time for Wear OS Devices</h3>
+  <p>Smartwatch startup is delayed by initialization ordering, encrypted-storage dependencies and main-thread contention. I led the design of a <b>parallel pre-loading technique</b> that classifies start-up tasks by when their data becomes available and schedules them earlier in the boot sequence. This improved start-up performance by about <b>15%</b>.</p>
+  <p class="card__meta">Rated A1 (high impact) in Samsung's internal IP assessment; a patent application has been filed.</p>
+  <div class="tags"><span>Systems</span><span>Wear OS</span><span>Performance</span></div>
+</article>
+
+<article class="card">
+  <span class="status status--done">Undergraduate thesis · 2017</span>
+  <h3 class="card__title">Bengali Number Plate Detection Using Edge-Based and Contour-Based Methods</h3>
+  <p>Most number-plate detection methods target Latin-script plates. This thesis presents a method for <b>Bengali number plates</b> in images taken under natural conditions. It localizes the plate with Sobel edge detection, Otsu's thresholding, morphological closing and contour properties, then segments characters with a contour-based approach and recognizes them with a Multi-Layer Perceptron. It reached <b>87%</b> plate-detection accuracy and <b>70.12%</b> character-segmentation accuracy.</p>
+  <div class="pipeline">
+    <figure><img src="{{ base_path }}/images/gray.png" alt="Grayscale conversion" loading="lazy"><figcaption>Grayscale</figcaption></figure>
+    <figure><img src="{{ base_path }}/images/blur.png" alt="Gaussian blur" loading="lazy"><figcaption>Gaussian blur</figcaption></figure>
+    <figure><img src="{{ base_path }}/images/thresholding.png" alt="Thresholding" loading="lazy"><figcaption>Thresholding</figcaption></figure>
+    <figure><img src="{{ base_path }}/images/morphological_operation.png" alt="Morphological operation" loading="lazy"><figcaption>Morphology</figcaption></figure>
+    <figure><img src="{{ base_path }}/images/cropped_plate.png" alt="Detected plate" loading="lazy"><figcaption>Detected plate</figcaption></figure>
+  </div>
+  <div class="tags"><span>Computer vision</span><span>C++</span><span>OpenCV</span><a href="https://github.com/tajmaun/Number-Plate-Detection/tree/master/bengali_number_plate_detection"><i class="fab fa-github" aria-hidden="true"></i> Code</a></div>
+</article>
+
+<!-- ============================== EXPERIENCE ============================== -->
+<h2 class="section-title" id="experience">Experience</h2>
+
+<ol class="timeline">
+  <li class="timeline__item">
+    <div class="timeline__head">
+      <h3>Samsung Research Bangladesh</h3>
+      <span class="timeline__date">Jul 2018 – Present</span>
+    </div>
+    <p class="timeline__sub">Wearable Solution Lab, Dhaka</p>
+    <ul class="roles">
+      <li><b>Lead Software Engineer</b><span>Jan 2026 – Present</span></li>
+      <li><b>Senior Software Engineer</b><span>Jan 2021 – Dec 2025</span></li>
+      <li><b>Software Engineer</b><span>Jul 2018 – Dec 2020</span></li>
+    </ul>
+    <ul class="bullets">
+      <li><b>Wear OS smartwatches:</b> System UI and launcher behavior, start-up optimization, app-settings synchronization, and backup and restore.</li>
+      <li><b>RTOS wearables (rings, bands, earbuds):</b> device-to-app communication protocols, firmware over-the-air (FOTA) updates, and diagnostics and log retrieval.</li>
+      <li><b>Companion apps</b> on Android, iOS and Windows: FOTA, notifications, location-based services, and health-data processing for Samsung Health.</li>
+      <li>Release stabilization, static-analysis and memory fixes, and unit testing.</li>
+    </ul>
+  </li>
+  <li class="timeline__item">
+    <div class="timeline__head">
+      <h3>Brain Station 23 Ltd.</h3>
+      <span class="timeline__date">Feb 2018 – Jul 2018</span>
+    </div>
+    <p class="timeline__sub">Junior Software Engineer, nopCommerce team, Dhaka</p>
+  </li>
+  <li class="timeline__item timeline__item--edu">
+    <div class="timeline__head">
+      <h3>University of Chittagong</h3>
+      <span class="timeline__date">2017</span>
+    </div>
+    <p class="timeline__sub">B.Sc. (Engg.) in Computer Science and Engineering</p>
+    <p>Thesis: <i>Bengali Number Plate Detection Using Edge-Based and Contour-Based Methods</i></p>
+  </li>
+</ol>
+
+<h3 class="subhead">Technical skills</h3>
+<dl class="skills">
+  <dt>Languages</dt><dd>Java, Kotlin, Swift, C++, C#</dd>
+  <dt>Platforms</dt><dd>Android, Wear OS, Tizen, RTOS, iOS, Windows (UWP)</dd>
+  <dt>Systems</dt><dd>Android System UI, Direct Boot &amp; file-based encryption, Bluetooth/BLE communication, state machines, performance profiling</dd>
+  <dt>Research tools</dt><dd>OpenCV, image processing, multilayer perceptrons, algorithm design and analysis</dd>
+  <dt>Practice</dt><dd>MVVM, clean architecture, automated testing, static analysis, Git, Gradle</dd>
+</dl>
+
+<h3 class="subhead">Competitive programming</h3>
+<div class="stat-grid">
+  <div class="stat"><span class="stat__value">2301</span><span class="stat__label">HackerRank rating<br>top 0.75% globally</span></div>
+  <div class="stat"><span class="stat__value">1930</span><span class="stat__label"><a href="https://codeforces.com/profile/supervillain">Codeforces</a> rating<br>top 3%</span></div>
+  <div class="stat"><span class="stat__value">100+</span><span class="stat__label">contests incl. ACM ICPC,<br>NCPC, Google Code Jam</span></div>
+  <div class="stat"><span class="stat__value">2000+</span><span class="stat__label">problems<br>solved</span></div>
+</div>
+<p class="note">HackerRank national rank <a href="https://www.hackerrank.com/leaderboard?filter=Bangladesh&amp;filter_on=country&amp;page=1">17<sup>th</sup></a> of 2,300 (best 5<sup>th</sup>), global rank <a href="https://www.hackerrank.com/leaderboard?filter=_maun&amp;filter_on=hacker&amp;level=5&amp;page=1">1421<sup>st</sup></a> of 182,781; top 1% in 10+ contests.
+Certifications: <a href="https://www.hackerrank.com/certificates/4a0cf98c6560">HackerRank Problem Solving (Advanced)</a> · <a href="https://www.nopcommerce.com/en/taj-maun-kamal-chowdhury">nopCommerce Certified Developer</a> · <a href="https://icpc.global/private/person/186556/ICPCID">ACM ICPC profile</a>.</p>
+
+<!-- ============================== PROJECTS ============================== -->
+<h2 class="section-title" id="projects">Projects</h2>
+<p class="section-intro">Production apps I have contributed to as a core engineer.</p>
+
+<div class="project-grid">
+  <a class="project" href="https://play.google.com/store/apps/details?id=com.samsung.android.app.watchmanager&amp;hl=en">
+    <h3>Galaxy Wearable <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></h3>
+    <p>Android app managing Samsung's smart rings, bands and Wear OS watches. Built FOTA, location services, notifications and log dump, and worked on device–app communication protocols.</p>
+    <div class="tags"><span>Android</span><span>Kotlin</span><span>Java</span></div>
+  </a>
+  <a class="project" href="https://play.google.com/store/apps/details?id=com.sec.android.app.shealth&amp;hl=en">
+    <h3>Samsung Health <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></h3>
+    <p>Built the SDK layer between Samsung wearables and the Health app: TLV data processing, format conversion and real-time synchronization of health data.</p>
+    <div class="tags"><span>Android</span><span>Health data</span></div>
+  </a>
+  <a class="project" href="https://apps.microsoft.com/detail/9nhtlwtkfznb?hl=en-US&amp;gl=US">
+    <h3>Windows Buds Manager <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></h3>
+    <p>Windows companion app for Galaxy Buds. Built and optimized the firmware-over-the-air update flow for reliable delivery to the earbuds.</p>
+    <div class="tags"><span>C#</span><span>UWP</span><span>FOTA</span></div>
+  </a>
+  <a class="project" href="https://apps.apple.com/us/app/samsung-galaxy-watch-gear-s/id1117310635">
+    <h3>iOS Wearable Manager <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></h3>
+    <p>iOS companion app for Samsung wearables. Worked on FOTA updates, device communication protocols and data synchronization.</p>
+    <div class="tags"><span>Swift</span><span>iOS</span><span>BLE</span></div>
+  </a>
+</div>
+
+<!-- ============================== AWARDS ============================== -->
+<h2 class="section-title" id="awards">Awards</h2>
+
+<h3 class="subhead">Industry</h3>
+<ul class="dated-list">
+  <li><span><i class="fas fa-trophy" aria-hidden="true"></i> Samsung <b>Intellect of the Quarter</b> Award</span><span class="dated-list__date">Oct – Dec 2025</span></li>
+  <li><span><i class="fas fa-trophy" aria-hidden="true"></i> Samsung <b>Icon of the Month</b> Award</span><span class="dated-list__date">Sep – Oct 2025</span></li>
+  <li><span><i class="fas fa-trophy" aria-hidden="true"></i> Samsung <b>Mobile R&amp;D CTO</b> Award</span><span class="dated-list__date">Jul – Sep 2024</span></li>
+  <li><span><i class="fas fa-trophy" aria-hidden="true"></i> Samsung <b>Mobile R&amp;D CTO</b> Award</span><span class="dated-list__date">Apr – Jun 2024</span></li>
+  <li><span><i class="fas fa-medal" aria-hidden="true"></i> Samsung <b>Excellence</b> Award</span><span class="dated-list__date">Apr – Jun 2024</span></li>
+  <li><span><i class="fas fa-medal" aria-hidden="true"></i> Samsung <b>Excellence</b> Award</span><span class="dated-list__date">Oct – Dec 2023</span></li>
+  <li><span><i class="fas fa-medal" aria-hidden="true"></i> Samsung <b>Excellence</b> Award</span><span class="dated-list__date">Apr – Jun 2023</span></li>
+  <li><span><i class="fas fa-certificate" aria-hidden="true"></i> Samsung Software Competency Test: <b>professional level</b> (top 26%)</span><span class="dated-list__date">Mar 2022</span></li>
+</ul>
+
+<h3 class="subhead">Academic &amp; competitive programming</h3>
+<ul class="dated-list">
+  <li><span><i class="fas fa-trophy" aria-hidden="true"></i> <b>1<sup>st</sup> place</b>, Brain Station Star Coder Contest</span><span class="dated-list__date">Nov 2018</span></li>
+  <li><span><i class="fas fa-trophy" aria-hidden="true"></i> <b>1<sup>st</sup> place</b>, CodeSignal Global Algorithmic Contest (50,000+ participants)</span><span class="dated-list__date">Jan 2015</span></li>
+  <li><span><i class="fas fa-medal" aria-hidden="true"></i> <b>3<sup>rd</sup> place</b>, IIUC Programming Contest, International Islamic University Chittagong</span><span class="dated-list__date">Jan 2013</span></li>
+  <li><span><i class="fas fa-chart-line" aria-hidden="true"></i> <b>HackerRank</b> algorithm rating 2301 (top 0.75% globally)</span><span class="dated-list__date">2012 – 2017</span></li>
+  <li><span><i class="fas fa-graduation-cap" aria-hidden="true"></i> <b>University of Chittagong</b> Merit Scholarship</span><span class="dated-list__date">2012</span></li>
+</ul>
+
+<!-- ============================== TALKS ============================== -->
+<h2 class="section-title" id="talks">Talks</h2>
+<ul class="dated-list dated-list--talks">
+  {% for post in site.talks reversed %}
+  <li>
+    <span><a href="{{ base_path }}{{ post.url }}"><b>{{ post.title }}</b></a><br><small>{{ post.type }} · {{ post.venue }}, {{ post.location }}</small></span>
+    <span class="dated-list__date">{{ post.date | date: '%b %Y' }}</span>
+  </li>
+  {% endfor %}
+  <li>
+    <span><b>Tech session (keynote speaker)</b><br><small>Bangladesh University of Business and Technology (BUBT), Dhaka</small></span>
+    <span class="dated-list__date">Apr 2025</span>
+  </li>
+</ul>
+
+<!-- ============================== SERVICE ============================== -->
+<h2 class="section-title" id="mentoring">Mentoring &amp; Service</h2>
+
+<h3 class="subhead">Academic service</h3>
+<ul class="dated-list">
+  <li><span><b>External thesis examiner</b>, Green University of Bangladesh</span><span class="dated-list__date">2025</span></li>
+  <li><span><b>Problem setter</b>, algorithmic programming contests, University of Chittagong</span><span class="dated-list__date">2016</span></li>
+  <li><span><b>Algorithmic problem author</b>, <a href="https://app.codesignal.com/question/zK97wQNTvc5t96spx">CodeSignal</a></span><span class="dated-list__date">Dec 2015</span></li>
+</ul>
+
+<h3 class="subhead">Mentoring</h3>
+<ul class="dated-list">
+  <li><span><b>Industry Mentorship Program</b>, University of Chittagong<br><small>Mentored final-semester CSE students Kazi Omar Sharif, Mahfuja Yesmin and Shadakur Rahman Tamgid</small></span><span class="dated-list__date">2025</span></li>
+  <li><span><b>Samsung Software Competency Test</b><br><small>Trained and helped 7 engineers pass the professional-level test</small></span><span class="dated-list__date">2023</span></li>
+  <li><span><b>Mentor &amp; judge</b>, PIHACKS21 System Development Hackathon<br><small>Presidency International School</small></span><span class="dated-list__date">2021</span></li>
+  <li><span><b>Competitive programming coach</b>, University of Chittagong<br><small>Taught problem solving and prepared students for ACM ICPC</small></span><span class="dated-list__date">2015</span></li>
+</ul>
+
+<a href="#about" class="back-to-top" aria-label="Back to top"><i class="fas fa-arrow-up" aria-hidden="true"></i></a>
