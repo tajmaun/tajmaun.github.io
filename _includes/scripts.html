@@ -3,7 +3,7 @@
 {% include analytics.html %}
 
 <script>
-  // Highlight the header link for the section currently in view (home page only).
+  /* Highlight the header link for the section currently in view (home page only). */
   (function () {
     var links = document.querySelectorAll('.masthead__menu-item a[href*="/#"]');
     var map = {};
@@ -23,7 +23,7 @@
     Object.keys(map).forEach(function (id) { observer.observe(document.getElementById(id)); });
   })();
 
-  // Show the back-to-top button once the reader has scrolled past the intro.
+  /* Show the back-to-top button once the reader has scrolled past the intro. */
   (function () {
     var btn = document.querySelector('.back-to-top');
     if (!btn) { return; }
@@ -32,7 +32,7 @@
     onScroll();
   })();
 
-  // Email button: also copy the address, since many visitors have no mail app set up.
+  /* Email button: also copy the address, since many visitors have no mail app set up. */
   (function () {
     var btn = document.querySelector('.js-copy-email');
     if (!btn) { return; }
