@@ -31,4 +31,28 @@
     window.addEventListener('scroll', onScroll, { passive: true });
     onScroll();
   })();
+
+  // Email button: also copy the address, since many visitors have no mail app set up.
+  (function () {
+    var btn = document.querySelector('.js-copy-email');
+    if (!btn) { return; }
+    var label = btn.querySelector('span');
+    var address = btn.getAttribute('href').replace('mailto:', '');
+    var timer;
+    var show = function (text) {
+      label.textContent = text;
+      clearTimeout(timer);
+      timer = setTimeout(function () { label.textContent = 'Email'; }, 4000);
+    };
+    btn.addEventListener('click', function () {
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(address).then(
+          function () { show('Email copied'); },
+          function () { show(address); }
+        );
+      } else {
+        show(address);
+      }
+    });
+  })();
 </script>
