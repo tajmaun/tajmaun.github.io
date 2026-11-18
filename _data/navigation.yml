@@ -1,34 +1,24 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# Links in the header. The site is a single page: each link jumps to a
+# section on the home page (see _pages/about.md for the section ids).
 
 main:
+  - title: "About"
+    url: /#about
+
   - title: "Experience"
-    url: /cv/
+    url: /#experience
 
   - title: "Awards"
-    url: /awards/
+    url: /#awards
 
   - title: "Research"
-    url: /research/
-    
+    url: /#research
+
   - title: "Projects"
-    url: /projects/
+    url: /#projects
 
   - title: "Talks"
-    url: /talks/
-  
+    url: /#talks
+
   - title: "Mentoring"
-    url: /mentoring/
- 
-
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "CV"
-  #   url: /cv/
-
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /#mentoring
