@@ -670,8 +670,9 @@ body { background: var(--global-bg-color); }
 }
 
 .news-date {
-  flex: 0 0 5.8em;
+  flex: 0 0 6.8em;
   box-sizing: border-box;
+  white-space: nowrap;
   padding: 0.1em 0.6em;
   font-size: 0.78em;
   text-align: center;
