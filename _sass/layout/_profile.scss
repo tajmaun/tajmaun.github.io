@@ -545,3 +545,194 @@ body {
 
   &:hover { opacity: 1; }
 }
+
+/* ==========================================================================
+   CALM VISUAL LAYER
+   Warm paper background, white surfaces with soft shadows, softer text.
+   ========================================================================== */
+
+$surface: #fff;
+$shadow-soft: 0 1px 2px rgba(31, 41, 55, 0.04), 0 6px 18px rgba(31, 41, 55, 0.05);
+$shadow-lift: 0 2px 4px rgba(31, 41, 55, 0.05), 0 12px 28px rgba(31, 41, 55, 0.08);
+
+:root {
+  --global-bg-color: #faf9f6;
+  --global-text-color: #2b3038;
+  --global-border-color: #e8e5df;
+  --global-text-color-light: #6b7280;
+}
+
+body { background: var(--global-bg-color); }
+
+.masthead {
+  background: color-mix(in srgb, var(--global-bg-color) 88%, transparent);
+  backdrop-filter: saturate(1.4) blur(8px);
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__content {
+  font-size: 1.04em;
+  line-height: 1.78;
+  color: var(--global-text-color);
+
+  a:not(.pill):not(.project):not(.back-to-top) {
+    text-decoration-color: color-mix(in srgb, var(--global-link-color) 35%, transparent);
+    text-underline-offset: 3px;
+  }
+}
+
+/* Calmer section headings: accent rule only, more air above */
+.page__content h2.section-title {
+  margin: 2.9em 0 1em;
+  padding-bottom: 0.4em;
+  font-size: 1.45em;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  border-bottom-color: transparent;
+
+  &::after { width: 2.4em; bottom: 0; }
+}
+
+.page__content h3.subhead {
+  margin: 2.2em 0 0.8em;
+  font-size: 0.74em;
+  letter-spacing: 0.1em;
+}
+
+/* Hero as a soft panel */
+.hero {
+  margin: 0 0 2.2em;
+  padding: 1.8em 1.9em 1.6em;
+  border-radius: 18px;
+  background:
+    radial-gradient(120% 140% at 100% 0%, color-mix(in srgb, var(--global-link-color) 10%, transparent) 0%, transparent 55%),
+    $surface;
+  box-shadow: $shadow-soft;
+
+  @media (max-width: 600px) { padding: 1.3em 1.2em 1.2em; }
+}
+
+.phd-callout {
+  border-left-width: 3px;
+  background: color-mix(in srgb, var(--global-link-color) 7%, $surface);
+}
+
+/* Surfaces: one consistent white "paper" for every grouped block */
+.interest,
+.card,
+.page__content a.project,
+.news-list,
+.dated-list,
+.skills,
+.stat {
+  background: $surface;
+  border: 1px solid var(--global-border-color);
+  box-shadow: $shadow-soft;
+}
+
+.card:hover,
+.page__content a.project:hover {
+  box-shadow: $shadow-lift;
+}
+
+/* Research interests: icon in a soft badge */
+.interest-grid { gap: 1em; }
+
+.interest {
+  padding: 1.1em 1.15em 1.15em;
+  transition: transform 0.15s, box-shadow 0.15s;
+
+  &:hover { transform: translateY(-2px); box-shadow: $shadow-lift; }
+
+  i {
+    display: inline-grid;
+    place-items: center;
+    width: 2.1em;
+    height: 2.1em;
+    font-size: 1em;
+    border-radius: 10px;
+    background: $soft-accent;
+  }
+
+  h4 { margin-top: 0.7em; }
+}
+
+/* News: a single panel with date chips */
+.news-list {
+  padding: 0.4em 1.3em;
+  border-radius: $card-radius;
+
+  li {
+    align-items: baseline;
+    padding: 0.8em 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+}
+
+.news-date {
+  flex: 0 0 5.8em;
+  box-sizing: border-box;
+  padding: 0.1em 0.6em;
+  font-size: 0.78em;
+  text-align: center;
+  border-radius: 999px;
+  background: $soft-accent;
+}
+
+/* Research cards */
+.card {
+  padding: 1.5em 1.6em 1.25em;
+  border-radius: 14px;
+
+  &:hover { border-color: var(--global-border-color); }
+}
+
+.page__content h3.card__title { font-size: 1.18em; }
+
+/* Experience: skills table and stats as panels */
+.skills {
+  padding: 1.1em 1.3em;
+  border-radius: $card-radius;
+}
+
+.stat {
+  border-top: 3px solid $accent;
+}
+
+/* Awards, talks, service: panels with soft rows */
+.dated-list {
+  padding: 0.2em 1.3em;
+  border-radius: $card-radius;
+
+  li { padding: 0.75em 0; }
+}
+
+/* Timeline dots sit on the warm background */
+.timeline__item::before { background: var(--global-bg-color); }
+
+/* Sidebar: quieter */
+.author__urls a { color: var(--global-text-color-light); }
+
+/* A lone last interest card spans the row instead of dangling */
+@media (min-width: 700px) {
+  .interest-grid { grid-template-columns: repeat(3, 1fr); }
+
+  .interest:last-child:nth-child(3n + 1) {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 0.9em;
+    align-items: center;
+
+    i { grid-row: 1 / 3; }
+    h4 { margin: 0 0 0.15em; }
+  }
+}
+
+@media (max-width: 699px) {
+  .interest-grid { grid-template-columns: repeat(2, 1fr); }
+  .interest:last-child:nth-child(odd) { grid-column: 1 / -1; }
+}
+@media (max-width: 420px) {
+  .interest-grid { grid-template-columns: 1fr; }
+}
